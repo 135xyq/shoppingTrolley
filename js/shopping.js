@@ -6,7 +6,7 @@ function init() {
 }
 init();
 // 数据请求
-ajax('/shoppingTrolley/js/shoppingData.json', function(data) {
+ajax('/js/shoppingData.json', function(data) {
     createGoodsDom(data);
     addEvents();
 })
