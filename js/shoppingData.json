@@ -4,25 +4,25 @@
                 "id": "10001",
                 "color": "粉色",
                 "price": "21",
-                "img": "../images/img_01-1.png"
+                "img": "/shoppingTrolley/images/img_01-1.png"
             },
             {
                 "id": "10002",
                 "color": "蓝色",
                 "price": "21",
-                "img": "../images/img_01-2.png"
+                "img": "/shoppingTrolley/images/img_01-2.png"
             },
             {
                 "id": "10003",
                 "color": "黄色",
                 "price": "21",
-                "img": "../images/img_01-3.png"
+                "img": "/shoppingTrolley/images/img_01-3.png"
             },
             {
                 "id": "10004",
                 "color": "绿色",
                 "price": "21",
-                "img": "../images/img_01-4.png"
+                "img": "/shoppingTrolley/images/img_01-4.png"
             }
         ]
     },
@@ -32,19 +32,19 @@
                 "id": "10005",
                 "color": "黑色",
                 "price": "227",
-                "img": "../images/img_02-1.png"
+                "img": "/shoppingTrolley/images/img_02-1.png"
             },
             {
                 "id": "10006",
                 "color": "青色",
                 "price": "227",
-                "img": "../images/img_02-2.png"
+                "img": "/shoppingTrolley/images/img_02-2.png"
             },
             {
                 "id": "10007",
                 "color": "蓝色",
                 "price": "227",
-                "img": "../images/img_02-3.png"
+                "img": "/shoppingTrolley/images/img_02-3.png"
             }
         ]
     },
@@ -54,19 +54,19 @@
                 "id": "10008",
                 "color": "绿色",
                 "price": "78",
-                "img": "../images/img_03-1.png"
+                "img": "/shoppingTrolley/images/img_03-1.png"
             },
             {
                 "id": "10009",
                 "color": "黄色",
                 "price": "78",
-                "img": "../images/img_03-2.png"
+                "img": "/shoppingTrolley/images/img_03-2.png"
             },
             {
                 "id": "10010",
                 "color": "银色",
                 "price": "78",
-                "img": "../images/img_03-3.png"
+                "img": "/shoppingTrolley/images/img_03-3.png"
             }
         ]
     },
@@ -76,25 +76,25 @@
                 "id": "10011",
                 "color": "栗色",
                 "price": "359",
-                "img": "../images/img_04-1.png"
+                "img": "/shoppingTrolley/images/img_04-1.png"
             },
             {
                 "id": "10012",
                 "color": "蓝色",
                 "price": "359",
-                "img": "../images/img_04-2.png"
+                "img": "/shoppingTrolley/images/img_04-2.png"
             },
             {
                 "id": "10013",
                 "color": "紫色",
                 "price": "359",
-                "img": "../images/img_04-3.png"
+                "img": "/shoppingTrolley/images/img_04-3.png"
             },
             {
                 "id": "10014",
                 "color": "红色",
                 "price": "359",
-                "img": "../images/img_04-3.png"
+                "img": "/shoppingTrolley/images/img_04-3.png"
             }
         ]
     }
